@@ -1,0 +1,10 @@
+﻿{
+  "UrlBoxConfig": {
+    "ApiKey": "Your API Key",
+    "ApiSecret": "Your API Secret"
+  },
+  "GrabzItConfig": {
+    "ApiKey": "Your API Key=",
+    "ApiSecret": "Your API Secret"
+  }
+}
